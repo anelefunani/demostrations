@@ -1,4 +1,4 @@
-package za.co.code.caloriescountring;
+package za.co.code.caloriescounting;
 
 public class Application {
 
