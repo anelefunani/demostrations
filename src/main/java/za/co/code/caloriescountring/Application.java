@@ -1,0 +1,8 @@
+package za.co.code.caloriescountring;
+
+public class Application {
+
+    public static void main(String[] args) {
+        System.out.println("Application...");
+    }
+}
